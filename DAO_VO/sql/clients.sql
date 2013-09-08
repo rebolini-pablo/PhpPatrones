@@ -22,4 +22,4 @@ CREATE TABLE `clients` (
 -- ----------------------------
 -- Records 
 -- ----------------------------
-INSERT INTO `clients` VALUES ('1', 'Bombita', 'petter@capusotto.net');
+--- INSERT INTO `clients` VALUES ('1', 'Bombita', 'petter@capusotto.net');
